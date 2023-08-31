@@ -1,0 +1,22 @@
+body
+{
+background-color: rgba(93, 73, 109, 0.781);
+}
+
+#span1
+{
+    font-size: 25px;
+    margin-left: 300px;
+}
+
+#span2
+{
+    font-size: 25px;
+    float:right;
+    margin-right: 300px;
+}
+
+#esbocoSD
+{
+    color: rgb(175, 51, 14) ;
+}
